@@ -16,3 +16,11 @@ C:/Flight/advanced-flight-tracker/venv/Lib/site-packages/clang/native filter=lfs
 C:/Flight/advanced-flight-tracker/client/node_modules/.cache/default-development filter=lfs diff=lfs merge=lfs -text
 venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/h5py/hdf5.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/h5py/hdf5_hl.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/h5py/zlib.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/numpy.libs/libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/scipy/special/libsf_error_state.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/sklearn/.libs/msvcp140.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/sklearn/.libs/vcomp140.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/tensorflow/python/framework/_native_proto_caster.dll filter=lfs diff=lfs merge=lfs -text
