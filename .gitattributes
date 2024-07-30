@@ -14,3 +14,5 @@ C:/Flight/advanced-flight-tracker/venv/Lib/site-packages/scipy.libs filter=lfs d
 C:/Flight/advanced-flight-tracker/client/node_modules/.cache/default-development filter=lfs diff=lfs merge=lfs -text
 C:/Flight/advanced-flight-tracker/venv/Lib/site-packages/clang/native filter=lfs diff=lfs merge=lfs -text
 C:/Flight/advanced-flight-tracker/client/node_modules/.cache/default-development filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
