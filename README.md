@@ -76,12 +76,9 @@ Add necessary variables (MongoDB URI, Aviation Stack API key, etc.)
 
 
 
-Future Enhancements
-
-Implement user authentication
+Future Enhancements:
 Add more detailed flight information
 Enhance 3D globe visualization
-Implement real-time updates using WebSockets
 Add unit and integration tests
 Set up CI/CD pipeline
 
